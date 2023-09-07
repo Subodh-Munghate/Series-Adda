@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Series-Adda/static/css/main.857fb37d.css",
+    "main.js": "/Series-Adda/static/js/main.422c1ce4.js",
+    "index.html": "/Series-Adda/index.html",
+    "main.857fb37d.css.map": "/Series-Adda/static/css/main.857fb37d.css.map",
+    "main.422c1ce4.js.map": "/Series-Adda/static/js/main.422c1ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857fb37d.css",
+    "static/js/main.422c1ce4.js"
+  ]
+}
